@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "c086",
+      "text": "german",
+      "completed": false
+    },
+    {
+      "id": "9136",
+      "text": "tokyo",
+      "completed": false
+    },
+    {
+      "id": "7891",
+      "text": "garut",
+      "completed": false
+    },
+    {
+      "id": "322a",
+      "text": "jakarta",
+      "completed": false
+    }
+  ]
+}
